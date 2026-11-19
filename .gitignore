@@ -1,0 +1,13 @@
+# Power BI temporary files
+*.pbix.lock
+*.pbi/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor and OS files
+.vscode/
+.idea/
+*.tmp
+*.log
